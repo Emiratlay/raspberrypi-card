@@ -2,7 +2,7 @@
 # access_control.py
 #
 # Gereksinimler:
-#  - pigpio daemon çalışıyor (sudo systemctl start pigpiod)
+#  - pigpio daemon çalışıyor (sudo pigpiod)
 #  - pywiegandpi kurulu ve çalışıyor
 #  - Python 3
 
@@ -162,3 +162,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
