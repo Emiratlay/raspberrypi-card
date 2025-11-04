@@ -81,7 +81,7 @@ Bu sayede Raspberry Pi GPIO pinleri sinyali doğru şekilde okuyabilir.
 
 ## 💾 Kod Dosyası
 
-Tüm çalışma kodu `wiegand.py` içinde yer almaktadır.
+Tüm çalışma kodu `fullwiegand.py` içinde yer almaktadır.
 Kod içinde 2 örnek kart 5’er dakikalık süreyle tanımlanmıştır.
 
 ---
@@ -90,9 +90,9 @@ Kod içinde 2 örnek kart 5’er dakikalık süreyle tanımlanmıştır.
 
 ```
 raspberrypi-card/
-├── wiegand.py
+├── fullwiegand.py
 ├── schematic.pdf
-├── access_control.db
+├── wiegand.py
 ├── README.md
 ```
 
