@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# access_control.py
-#
 # Gereksinimler:
 #  - pigpio daemon çalışıyor (sudo pigpiod)
 #  - pywiegandpi kurulu ve çalışıyor
@@ -162,4 +159,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
